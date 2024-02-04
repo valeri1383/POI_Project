@@ -1,5 +1,5 @@
 Project Deployment Guide
-This guide provides step-by-step instructions for deploying the project using NetBeans and XAMPP. It includes details on installing the necessary software, setting up the database, configuring the server, and running the project. Additionally, log in details for system testing and exploration are provided.
+This guide provides step-by-step instructions for deploying the project using NetBeans and XAMPP. It includes details on installing the necessary software, setting up the database, configuring the server, and running the project. Additionally, login details for system testing and exploration are provided.
 
 Prerequisites
 Install NetBeans and XAMPP if they are not already installed on your machine. Follow the setup wizards for each software to complete the installation.
@@ -45,5 +45,3 @@ Regular users can search, add items comment to poi, and like them.
 •	Username: venci | Password: pass
 
 This guide should assist you in deploying the project smoothly. For additional assistance, refer to the respective software documentation or contact support.
-
-![image](https://github.com/valeri1383/POI_Project/assets/48549837/dd1db2f7-9f5d-49b6-b991-d586f3124c17)
