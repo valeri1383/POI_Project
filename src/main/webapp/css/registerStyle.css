@@ -1,0 +1,69 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f8f0e4;
+    color: #4a4a4a;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #eceff1;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    width: 300px;
+    text-align: center;
+}
+
+.container h2 {
+    color: #795548;
+    margin-bottom: 20px;
+}
+
+.container input[type="text"],
+.container input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    background-color: #f8f0e4;
+}
+
+.container input[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    background-color: #6a1b9a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.container input[type="submit"]:hover {
+    background-color: #5e1977;
+}
+
+.container .login-link {
+    color: #795548;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.error-message, .success-message {
+    margin-top: 15px;
+}
+
+.error-message {
+    color: #dc3545; /* Red for errors */
+}
+
+.success-message {
+    color: #28a745; /* Green for success */
+}
